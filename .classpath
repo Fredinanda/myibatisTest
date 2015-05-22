@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/myibatis"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jdbc"/>
+	<classpathentry kind="lib" path="C:/icto55/ICTO55/live/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/icto55/ICTO55/live/ibatis-sqlmap-2.3.4.726.jar" sourcepath="C:/Users/student/.m2/repository/org/apache/ibatis/ibatis-sqlmap/2.3.4.726/ibatis-sqlmap-2.3.4.726-sources.jar"/>
+	<classpathentry kind="lib" path="C:/icto55/ICTO55/live/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/icto55/lib/mybatis-3.2.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
